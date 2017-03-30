@@ -1,0 +1,62 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 11 Jul 2016 14:27:25 at http://cnettr.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pnx%s%uN100%I0p7H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://cnettr.com -O1 "C:\cnet\Cnet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:33:47	Warning: 	Found for googleads.g.doubleclick.net/pagead/viewthroughconversion/953342875/?value=0&guid=ON&script=0
+14:33:47	Warning: 	File has moved from googleads.g.doubleclick.net/pagead/viewthroughconversion/953342875/?value=0&guid=ON&script=0 to http://www.google.com/ads/user-lists/953342875/?script=0&random=848207200
+14:33:47	Error: 	"Not Found" (404) at link cnettr.com/POST (from cnettr.com/WebResource.axd?d=xHJaQKnjHtyHGI-xmC14bN5RswGY119JuvzGzFCQzxJA0vTwdNwEzTiApJ-srVP9YwAJ5nqqAily3ypzBJMuyKFjWWPPZhaBQVaopu012aM1&t=635823524460000000)
+14:50:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.googleadservices.com/pagead/conversion.js
+14:50:51	Warning: 	HTML file (16116 bytes) retransferred due to lack of cache: cnettr.com/en-us/
+14:50:52	Warning: 	HTML file (19145 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/corporate
+14:50:53	Warning: 	HTML file (41474 bytes) retransferred due to lack of cache: cnettr.com/spotcam/
+14:50:53	Warning: 	HTML file (68827 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/353/c1-high-power-touch-screen-wi-fi-range-extender
+14:50:56	Warning: 	HTML file (82836 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/339/car-984r-300mbps-wireless-n-4-port-adsl-22-modem-router
+14:50:58	Warning: 	HTML file (73410 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/358/wrhc1750g-high-power-wireless-router
+14:51:01	Warning: 	HTML file (19663 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productgroup/1074/adsl--vdsl
+14:51:02	Warning: 	HTML file (72592 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/345/csh-2400-24-port-fast-ethernet-switch
+14:51:05	Warning: 	HTML file (72772 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/354/wnir3200-wireless-n-broadband-router
+14:51:07	Warning: 	HTML file (68009 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/341/cgs-2400-24-port-gigabit-ethernet-switch
+14:51:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/Images/arrow_right.png
+14:51:09	Warning: 	HTML file (16734 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/newsdetail/2018/gaziantep-tanitim-toplantisi
+14:51:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/GuvenlikKodu.aspx
+14:51:09	Warning: 	HTML file (17349 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/newsdetail/1019/cnetten-ev-ve-isyerlerine-yeni-urun
+14:51:09	Warning: 	HTML file (19308 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/corporate/44/cnet
+14:51:14	Error: 	"" (404) at link cnettr.com/POST (from cnettr.com/WebResource.axd?d=xHJaQKnjHtyHGI-xmC14bN5RswGY119JuvzGzFCQzxJA0vTwdNwEzTiApJ-srVP9YwAJ5nqqAily3ypzBJMuyKFjWWPPZhaBQVaopu012aM1&t=635823524460000000)
+14:51:14	Warning: 	HTML file (56415 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/363/spotcam-hd-pro
+14:51:14	Warning: 	HTML file (75259 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/344/csh-1600e-16-port-fast-ethernet-switch
+14:51:18	Warning: 	HTML file (14764 bytes) retransferred due to lack of cache: cnettr.com/en-us/corporate
+14:51:18	Warning: 	HTML file (17420 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/newsdetail/18/kullanicilari-heyecanlandiran-iki-urun
+14:51:19	Warning: 	HTML file (67451 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/361/cgs-802gswp-8-port-101001000--2-uplink-web-smart-poe-switch
+14:51:20	Warning: 	HTML file (58855 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/362/spotcam-hd
+14:51:23	Warning: 	HTML file (56502 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/364/spotcam-hd-eva
+14:51:23	Warning: 	HTML file (69538 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/1359/csh-524p-5-port-fast-ethernet-switch-4-port-poe
+14:51:27	Warning: 	HTML file (76664 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/347/wnir3300-wireless-n-broadband-router
+14:51:29	Warning: 	HTML file (72125 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/352/wnir5300-wireless-n-broadband-router
+14:51:31	Warning: 	HTML file (73786 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/357/wrhc1200g-high-power-wireless-router
+14:51:33	Warning: 	HTML file (77102 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/348/wnix3300--wireless-n-long-range-extender
+14:51:35	Warning: 	HTML file (79037 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/349/wnud1150h-high-power-wireless-n-usb-adaptor
+14:51:38	Warning: 	HTML file (61966 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/346/wdac433-dual-band-wireless-ac-usb-adaptor
+14:51:38	Warning: 	HTML file (67766 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/338/cgs-1600-16-port-gigabit-ethernet-switch
+14:51:42	Warning: 	HTML file (67191 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/340/cgs-800-8-port-gigabit-ethernet-switch
+14:51:42	Warning: 	HTML file (66058 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/productdetail/342/csh-500--5-port-fast-ethernet-switch
+14:51:47	Warning: 	HTML file (18745 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/partners/1/distributorler
+14:51:47	Error: 	"Not Found" (404) at link cnettr.com/spotcam/Images/favicon.ico (from cnettr.com/spotcam/)
+14:51:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/spotcam/Image/slid-prev.png
+14:51:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/spotcam/Image/slid-next.png
+14:51:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/spotcam/Image/slid-button.png
+14:51:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/spotcam/Storage/Web/Small/free-pack.png
+14:51:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/spotcam/Storage/Web/Small/7-days.png
+14:51:59	Warning: 	HTML file (41510 bytes) retransferred due to lack of cache: cnettr.com/spotcam/Default.aspx
+14:52:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cnettr.com/WebResource.axd?d=t7WWbnWEciomoaGEr5IBl5fvC-yOytQeuAO1xfSFKX7sL1tTMXPinRwIsTpSV3gfKR5aRfGdfCSjOA2hxso6IYWB-aD6aKC8hyrQ57obP2g1&t=635823524460000000
+14:52:01	Warning: 	HTML file (16325 bytes) retransferred due to lack of cache: cnettr.com/tr-tr/newsdetail/15/cnet-turkiyeye-hosgeldiniz
+14:52:03	Error: 	"Not Found" (404) at link cnettr.com/Popover requires tooltip.js (from cnettr.com/Scripts/bootstrap.js)
+14:52:03	Error: 	"Not Found" (404) at link cnettr.com/spotcam/fonts/glyphicons-halflings-regular.woff2 (from cnettr.com/spotcam/Content/bootstrap.min.css)
+14:52:41	Error: 	"Not Found" (404) at link cnettr.com/spotcam/Content/grabbing.png (from cnettr.com/spotcam/Content/Main.css)
+14:52:50	Error: 	"Not Found" (404) at link cnettr.com/spotcam/Popover requires tooltip.js (from cnettr.com/spotcam/Script/bootstrap.min.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 25 minutes 25 seconds : 354 links scanned, 600 files written (72977325 bytes overall) [40349170 bytes received at 26458 bytes/sec], 199 bytes transferred using HTTP compression in 3 files, ratio 100%
+(7 errors, 44 warnings, 0 messages)

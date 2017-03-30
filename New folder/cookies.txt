@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cnettr.com	TRUE	/	FALSE	1999999999	anon	261a9da0-a97b-429f-bc00-5a8323c6a13a
+.doubleclick.net	TRUE	/	FALSE	1999999999	test_cookie	CheckForPermission
+cnettr.com	TRUE	/	FALSE	1999999999	SecurityCode	G02OWV
+

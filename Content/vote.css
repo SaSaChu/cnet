@@ -1,0 +1,89 @@
+﻿.prVoting {
+    float: left;
+    width: 100%;
+    padding: 5px 0;
+    margin-bottom: 5px;
+}
+
+.vote_result {
+    float: left;
+    margin: 5px 0 0 0;
+    color: inherit;
+    font-family: Tahoma;
+    width: 255px;
+    font-size: 9pt;
+}
+/*
+.vote_box {
+    float: left;
+    width: 85px;
+}
+
+    .vote_box a {
+        background-image: url('../Images/Icons/stars.png');
+        background-position: 0 0;
+        float: left;
+        width: 16px;
+        height: 16px;
+        margin-right: 1px;
+        cursor:pointer;
+    }*/
+
+
+
+/*BEGIN STAR*/
+.stars {
+    width: 80px;
+    height: 16px;
+    background: url('../Images/stars.png') 0 0 repeat-x;
+    position: relative;
+}
+
+    .stars .rating {
+        height: 16px;
+        background: url('../Images/stars.png') 0 -16px repeat-x;
+    }
+
+    .stars input {
+        display: none;
+    }
+
+    .stars label {
+        /* display: none; */
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 16px;
+        width: 80px;
+        cursor: pointer;
+    }
+
+    .stars:hover label {
+        display: block;
+    }
+
+    .stars label:hover {
+        background: url('../Images/stars.png') 0 -32px repeat-x;
+    }
+
+    .stars label + input + label {
+        width: 65px;
+    }
+
+        .stars label + input + label + input + label {
+            width: 48px;
+        }
+
+            .stars label + input + label + input + label + input + label {
+                width: 32px;
+            }
+
+                .stars label + input + label + input + label + input + label + input + label {
+                    width: 16px;
+                }
+
+    .stars input:checked + label {
+        display: block;
+        background: url('../Images/stars.png') 0 -32px repeat-x;
+    }
+/*END STARS*/
